@@ -35,13 +35,5 @@ The primary goal of the game is to survive as long as possible by eating food to
 - Double-click to run the game locally on your computer.
 ---
 
-## **Project Structure**
-Snake-Game/
-├── main.py # Entry point
-├── snake.py
-├── food.py
-├── scoreboard.py
-└── README.md
-
 ## **Author**
 Developed by **[Adithi CJ](https://github.com/ADITHICJ)**
